@@ -5,11 +5,11 @@ var ingredient4 = "butter"
 var ingredient5 = "tomato"
 var ingredient6 = "garlic"
 
-var chocolateBers = ["snickers", "hundred grand", "kitkat", "skittles"]
+var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
 
-function addElementToBeginningOfArray() {
+function addElementToBeginningOfArray(array, element) {
   
 }
-function destructivelyAddElementToBeginningOfArray(){
+function destructivelyAddElementToBeginningOfArray(array, element){
   
 }
