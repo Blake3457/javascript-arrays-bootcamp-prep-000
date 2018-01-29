@@ -6,6 +6,7 @@ var ingredient5 = "tomato"
 var ingredient6 = "garlic"
 
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
+var candystring = "foo"
 
 function addElementToBeginningOfArray(array, element) {
 
