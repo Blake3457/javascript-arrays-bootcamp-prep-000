@@ -11,6 +11,6 @@ var candyString = "foo"
 function addElementToBeginningOfArray(chocolateBars, candyString) {
 return [candyString, ...chocolateBars]
 }
-function destructivelyAddElementToBeginningOfArray(array, element){
+function destructivelyAddElementToBeginningOfArray(chocolateBars, candyString){
   
 }
