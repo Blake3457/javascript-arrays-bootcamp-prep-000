@@ -15,3 +15,9 @@ function destructivelyAddElementToBeginningOfArray(chocolateBars, candyString){
   chocolateBars.unshift(candyString)
   return chocolateBars
 }
+function addElementToEndOfArray(chocolateBars, candyString){
+  chocolateBars.push(candyString)
+}
+function destructivelyAddElementToEndOfArray(){
+  return [...chocolateBars, candyString]
+}
